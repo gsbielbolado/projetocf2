@@ -1,0 +1,17 @@
+﻿@page
+
+
+
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<h3>cadastre se e faça agora o seu primeiro agendamento e ganhe um super desconto</h3>
+
+<h1>consulte a tebela de preço</h1>
+
+<h1>confira o seus agendamento</h1>
+
+@foreach(var item in Model.UsuarioUnico){
+    <h1>@item.nome</h1>
+}

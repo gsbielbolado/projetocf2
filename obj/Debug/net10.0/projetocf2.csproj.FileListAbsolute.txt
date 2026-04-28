@@ -1,0 +1,194 @@
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\projetocf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\projetocf2.AssemblyInfoInputs.cache
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\projetocf2.AssemblyInfo.cs
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\projetocf2.csproj.CoreCompileInputs.cache
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\projetocf2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\projetocf2.RazorAssemblyInfo.cache
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\projetocf2.RazorAssemblyInfo.cs
+C:\Users\Noite\Desktop\projetocf2\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Noite\Desktop\projetocf2\bin\Debug\net10.0\appsettings.json
+C:\Users\Noite\Desktop\projetocf2\bin\Debug\net10.0\projetocf2.staticwebassets.runtime.json
+C:\Users\Noite\Desktop\projetocf2\bin\Debug\net10.0\projetocf2.staticwebassets.endpoints.json
+C:\Users\Noite\Desktop\projetocf2\bin\Debug\net10.0\projetocf2.exe
+C:\Users\Noite\Desktop\projetocf2\bin\Debug\net10.0\projetocf2.deps.json
+C:\Users\Noite\Desktop\projetocf2\bin\Debug\net10.0\projetocf2.runtimeconfig.json
+C:\Users\Noite\Desktop\projetocf2\bin\Debug\net10.0\projetocf2.dll
+C:\Users\Noite\Desktop\projetocf2\bin\Debug\net10.0\projetocf2.pdb
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\scopedcss\bundle\projetocf2.styles.css
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\scopedcss\projectbundle\projetocf2.bundle.scp.css
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\55f7m2jkw8-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\t76bfmcoi8-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\nn863rtdgw-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\csrha7f55l-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\vl1npj0v5b-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\mvitcq5ofy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\6deeizhi2y-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\np42591kuv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\a3amdb3e77-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\nden0rnus1-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\ymcms5xa26-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\gziefz4kj1-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\bmcoigzq0p-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\6uu5rl8llq-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\rrpru9nyjx-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\qvc8cx17rk-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\26e2rf2gs8-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\i17w972oc0-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\o96q4eho9w-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\3a434rsr5t-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\6zhsoeli83-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\7zcati1zut-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\g19p0vacgi-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\q0en1msj9p-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\9gdz3boxe6-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\rpa2nzd7eg-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\wq1k83r5rj-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\95jhlasgsm-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\uekrt3sf61-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\aw5uhxjua6-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\gye4plaskh-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\ish7vo3msa-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\mft62rtogi-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\5f8bvo5rs1-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\uy68qw1nrn-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\z83fumt3id-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\ez6cytg9y5-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\ckvf4qxu8y-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\1vf25jmwz9-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\ws1vvw2w7g-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\r4o5vkv1c4-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\gtbor0ovdx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\1zmu6n5jvr-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\6i6p2zevil-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\7hdbtoz23s-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\xmy5yj5xgp-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\3t0ea356b7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\2wx4z2dsx7-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\rvod78892l-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\3rhukigbgq-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\ohojwiekmb-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\vigp9o4aho-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\j0ov0w3hme-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\t318iy4pe8-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\2sojy9on3m-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\wffmk059dm-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\b1i4hm7y1j-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\c7zfy57ft9-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\rlbafho6v2-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\arn5losgpt-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\55potxz5r3-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\fp2tl91kj8-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\vszpcyyj73-{0}-qi1bgas3xd-qi1bgas3xd.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\compressed\6mdc410hwm-{0}-qi1bgas3xd-qi1bgas3xd.gz
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\projetocf2.dll
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\refint\projetocf2.dll
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\projetocf2.pdb
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\projetocf2.genruntimeconfig.cache
+C:\Users\Noite\Desktop\projetocf2\obj\Debug\net10.0\ref\projetocf2.dll
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\projetocf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\projetocf2.AssemblyInfoInputs.cache
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\projetocf2.AssemblyInfo.cs
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\projetocf2.csproj.CoreCompileInputs.cache
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\projetocf2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\projetocf2.RazorAssemblyInfo.cache
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\projetocf2.RazorAssemblyInfo.cs
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\projetocf2.dll
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\refint\projetocf2.dll
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\projetocf2.pdb
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\bin\Debug\net10.0\appsettings.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\bin\Debug\net10.0\projetocf2.staticwebassets.endpoints.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\bin\Debug\net10.0\projetocf2.staticwebassets.runtime.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\bin\Debug\net10.0\projetocf2.exe
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\bin\Debug\net10.0\projetocf2.deps.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\bin\Debug\net10.0\projetocf2.runtimeconfig.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\bin\Debug\net10.0\projetocf2.dll
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\bin\Debug\net10.0\projetocf2.pdb
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\scopedcss\bundle\projetocf2.styles.css
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\scopedcss\projectbundle\projetocf2.bundle.scp.css
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\55f7m2jkw8-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\t76bfmcoi8-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\nn863rtdgw-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\csrha7f55l-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\vl1npj0v5b-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\mvitcq5ofy-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\6deeizhi2y-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\np42591kuv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\a3amdb3e77-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\nden0rnus1-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\ymcms5xa26-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\gziefz4kj1-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\bmcoigzq0p-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\6uu5rl8llq-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\rrpru9nyjx-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\qvc8cx17rk-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\26e2rf2gs8-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\i17w972oc0-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\o96q4eho9w-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\3a434rsr5t-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\6zhsoeli83-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\7zcati1zut-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\g19p0vacgi-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\q0en1msj9p-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\9gdz3boxe6-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\rpa2nzd7eg-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\wq1k83r5rj-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\95jhlasgsm-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\uekrt3sf61-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\aw5uhxjua6-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\gye4plaskh-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\ish7vo3msa-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\mft62rtogi-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\5f8bvo5rs1-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\uy68qw1nrn-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\z83fumt3id-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\ez6cytg9y5-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\ckvf4qxu8y-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\1vf25jmwz9-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\ws1vvw2w7g-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\r4o5vkv1c4-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\gtbor0ovdx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\1zmu6n5jvr-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\6i6p2zevil-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\7hdbtoz23s-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\xmy5yj5xgp-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\3t0ea356b7-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\2wx4z2dsx7-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\rvod78892l-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\3rhukigbgq-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\ohojwiekmb-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\vigp9o4aho-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\j0ov0w3hme-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\t318iy4pe8-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\2sojy9on3m-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\wffmk059dm-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\b1i4hm7y1j-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\c7zfy57ft9-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\rlbafho6v2-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\arn5losgpt-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\55potxz5r3-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\fp2tl91kj8-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\vszpcyyj73-{0}-qi1bgas3xd-qi1bgas3xd.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\compressed\6mdc410hwm-{0}-qi1bgas3xd-qi1bgas3xd.gz
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\projetocf2.genruntimeconfig.cache
+C:\Users\Noite\Desktop\Gabriel SF\Projetos\projetocf2\obj\Debug\net10.0\ref\projetocf2.dll
