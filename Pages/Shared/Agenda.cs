@@ -9,14 +9,13 @@ namespace projetocf2.Pages;
 
 public class agendaModels : PageModel 
 {
-    
+
     public IActionResult OnPost ( string NomeCliente,string Servico,int data, int Hora)
 
     {
         var usuario = new Usuario
         {
             NomeCliente = NomeCliente,
-            
             
 
 
