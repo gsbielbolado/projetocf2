@@ -1,37 +1,32 @@
 
+using System.Security.Cryptography.X509Certificates;
 using projetocf2.Models;
+using SQLitePCL;
 
 namespace projetocf2.Data;
 public class UsuarioRepositorio
 
 
-{//cirando a lista de classes para registro
+{
+   private readonly APPDBcontex _context;
 
-   static List<Usuario> usuarios =new List<Usuario>();
 
-   //realiszando  o registro dentro da lista
-
-   static UsuarioRepositorio()
+   public UsuarioRepositorio(APPDBcontex context)
 
    {
-      usuarios.Add(new Usuario{ email="@gmail.com",nome="Mauricinho Jamaicano",senha=0123});
+      _context = context;
    }
 
-   public List<Usuario> puxarUsuario()
+   public List<Usuario> puxarProduto()
    {
-      return usuarios;
-      
+      return _context.usuarios.ToList();
    }
-   public static void Adiciona(Usuario usuario)
+
+      public void  adicionar(Usuario usuario)
    {
-       usuarios.Add(usuario);
+      _context.usuarios.Add(usuario);
+      _context.SaveChanges();
    }
+   
 
-
-
-  
-
-
-    
-    
 }

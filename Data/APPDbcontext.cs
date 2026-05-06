@@ -6,12 +6,14 @@ namespace projetocf2.Data;
 public class APPDBcontex: DbContext
 {
     
-    // contrutor padrão - recebe as opções de configuração ( qual bancop usar, etc.)
+    // construtor padrão - recebe as opções de configuração ( qual banco usar, etc.)
 
-    public APPDBcontex(DbContextOptions<AppContext> options) : base(options) { }
+    public APPDBcontex(DbContextOptions<APPDBcontex> options) : base(options) { }
     // esta linha diz : "existe uma tabela chamada produtos que armazena objetos produtos"
 
     public DbSet<Usuario> usuarios{get; set; } 
+    public DbSet<Agendamento> agendamentos{get; set; } 
+
 
     
 }

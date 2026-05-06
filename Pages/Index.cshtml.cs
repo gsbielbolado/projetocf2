@@ -10,7 +10,7 @@ using projetocf2.Models;
 
 public class IndexModel : PageModel
 {
-    private readonly UsuarioRepositorio repositorio = new UsuarioRepositorio();
+    private readonly UsuarioRepositorio repositorio ;
 
     public List<Usuario> UsuarioUnico {get;set;} = new();
 
@@ -20,7 +20,7 @@ public class IndexModel : PageModel
     }
     public void OnGet()
     {
-        UsuarioUnico =repositorio.puxarUsuario();
+        UsuarioUnico =repositorio.puxarProduto();
 
 
     }

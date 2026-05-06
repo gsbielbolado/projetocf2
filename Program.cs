@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using projetocf2.Data;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,8 +8,19 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 
 builder.Services.AddScoped<UsuarioRepositorio>();
+builder.Services.AddScoped<AgendamentoRepositorio>();
+
+
+builder.Services.AddDbContext<APPDBcontex>(Options =>Options.UseSqlite("Data Source=seubanco.db"));
 
 var app = builder.Build();
+using (var scope = app.Services.CreateScope())
+
+{
+var db =scope.ServiceProvider.GetRequiredService<APPDBcontex>();
+db.Database.EnsureCreated();
+
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
